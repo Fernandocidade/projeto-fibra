@@ -1,0 +1,110 @@
+@font-face {
+    font-family: "flaticon";
+    src: url("../fonts/flaticon_056b86180df775b8f1f8cf795d798c95.ttf") format("truetype"),
+url("../fonts/flaticon_056b86180df775b8f1f8cf795d798c95.woff") format("woff"),
+url("../fonts/flaticon_056b86180df775b8f1f8cf795d798c95.woff2") format("woff2"),
+url("../fonts/flaticon_056b86180df775b8f1f8cf795d798c95.eot#iefix") format("embedded-opentype"),
+url("../fonts/flaticon_056b86180df775b8f1f8cf795d798c95.svg#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-shopping-cart:before {
+    content: "\f101";
+}
+.flaticon-search:before {
+    content: "\f102";
+}
+.flaticon-email:before {
+    content: "\f103";
+}
+.flaticon-location:before {
+    content: "\f104";
+}
+.flaticon-telephone-handle-silhouette:before {
+    content: "\f105";
+}
+.flaticon-internet-banking:before {
+    content: "\f106";
+}
+.flaticon-wifi-router:before {
+    content: "\f107";
+}
+.flaticon-sync:before {
+    content: "\f108";
+}
+.flaticon-satellite-dish:before {
+    content: "\f109";
+}
+.flaticon-tv:before {
+    content: "\f10a";
+}
+.flaticon-wifi-router-1:before {
+    content: "\f10b";
+}
+.flaticon-device:before {
+    content: "\f10c";
+}
+.flaticon-laptop:before {
+    content: "\f10d";
+}
+.flaticon-device-1:before {
+    content: "\f10e";
+}
+.flaticon-calendar:before {
+    content: "\f10f";
+}
+.flaticon-user:before {
+    content: "\f110";
+}
+.flaticon-folder:before {
+    content: "\f111";
+}
+.flaticon-play-button:before {
+    content: "\f112";
+}
+.flaticon-clock:before {
+    content: "\f113";
+}
+.flaticon-facebook:before {
+    content: "\f114";
+}
+.flaticon-twitter:before {
+    content: "\f115";
+}
+.flaticon-instagram:before {
+    content: "\f116";
+}
+.flaticon-linkedin:before {
+    content: "\f117";
+}
+.flaticon-businessman:before {
+    content: "\f118";
+}
+.flaticon-repair-kit:before {
+    content: "\f119";
+}
+.flaticon-support:before {
+    content: "\f11a";
+}
+.flaticon-megaphone:before {
+    content: "\f11b";
+}
+.flaticon-smartphone-call:before {
+    content: "\f11c";
+}
+.flaticon-pin:before {
+    content: "\f11d";
+}
+.flaticon-chat:before {
+    content: "\f11e";
+}
